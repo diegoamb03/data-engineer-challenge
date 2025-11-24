@@ -247,10 +247,6 @@ data-engineer-challenge/
 │
 ├── notebooks/                         # Jupyter notebooks
 │   └── challenge.ipynb               # Análisis y visualización
-│
-└── docs/                              # Documentación adicional
-    ├── performance_analysis.md       # Reporte detallado de rendimiento
-    └── architecture_decisions.md     # Registro de decisiones técnicas
 ```
 
 ## Resultados
